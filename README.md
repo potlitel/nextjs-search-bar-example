@@ -36,4 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Usefull links
-[https://morioh.com/a/a16edce1689a/building-a-search-bar-with-nextjs-and-tailwind-css](Building a Search Bar with Next.js and Tailwind CSS)
+[Building a Search Bar with Next.js and Tailwind CSS](https://morioh.com/a/a16edce1689a/building-a-search-bar-with-nextjs-and-tailwind-css)
